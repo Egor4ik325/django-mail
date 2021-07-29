@@ -1,0 +1,4 @@
+mail-env/
+__pycache__/
+migrations/
+*.sqlite3

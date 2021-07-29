@@ -1,0 +1,10 @@
+textarea {
+    min-height: 400px;
+}
+
+.inbox-email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
