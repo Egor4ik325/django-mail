@@ -1,0 +1,4 @@
+__pacache__
+*.pyc
+main-env
+db.sqlite3
