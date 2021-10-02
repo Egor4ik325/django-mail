@@ -20,6 +20,11 @@ Features checklist:
     - [x] call function
     - [x] prefill form
 
+- [x] Dockerized project image
+- [x] deploy to Heroku
+- [x] setup CI/CD with GitLab
+
+
 Additional fetures:
 
 - webpage favicon
